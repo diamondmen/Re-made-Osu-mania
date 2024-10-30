@@ -1,7 +1,7 @@
 import { BitmapText, Container, Graphics } from "pixi.js";
 import { Game } from "../game";
 
-const MAX_FRAMES = 30;
+const MAX_FRAMES = 60;
 
 export class Fps {
   public game: Game;
